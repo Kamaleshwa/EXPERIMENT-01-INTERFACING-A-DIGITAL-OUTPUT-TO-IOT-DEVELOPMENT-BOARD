@@ -2,16 +2,16 @@
 
 
 **DATE:**
-12.03.2025
+20.03.2025
 
 **NAME:**
-KAMALESHWAR KV
+kamaleshwar kv
 
 **ROLL NO:**
 212223240063
 
 **DEPARTMENT:**
-AIML
+ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
 
 ## Aim
 
@@ -110,11 +110,13 @@ int main(void)
 ## OUTPUT
 ### OFF:
 
-![IMG_20250312_111913](https://github.com/user-attachments/assets/569b7965-53a4-4ca1-87c2-f0355e25d51e)
+![iot output OFF](https://github.com/user-attachments/assets/f426f5dc-403b-4bd8-862d-a78a76f4b03f)
+
 
 ### ON:
 
-![IMG_20250312_111910](https://github.com/user-attachments/assets/9bf7d590-f189-4c2a-862b-19631444a1bb)
+![iot output ON](https://github.com/user-attachments/assets/11a61cce-5922-4a6f-8df6-2df8c36dadcf)
+
 
 ## Result
 
